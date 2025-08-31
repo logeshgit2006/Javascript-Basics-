@@ -1,5 +1,5 @@
-function name (input){
-    console.log("hello"+input);   
+function name (input_name){
+    console.log("hello"+input_name);   
 }
 name (" logesh");
 
