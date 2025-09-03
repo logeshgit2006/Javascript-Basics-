@@ -28,7 +28,7 @@ console.log(fruits); // Output: ["apple", "pear", "peach", "grape"]
 let numbers = [1, 2, 3, 4];
 numbers.forEach(function(number) {
     console.log(number * 2);
-});
+}); addEventListener.apply
 // Output: 2, 4, 6, 8
 
 //map -> creates a new array with the results of calling a provided function on every element in the calling array.
